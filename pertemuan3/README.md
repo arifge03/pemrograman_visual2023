@@ -1,7 +1,7 @@
 
 Pertemuan 3
 ==
-Pada folder Pertemuan1 pada berisi folder:
+Pada folder Pertemuan3 pada berisi folder:
 - Latihan3
 - Praktikum3
 - Tugas3
