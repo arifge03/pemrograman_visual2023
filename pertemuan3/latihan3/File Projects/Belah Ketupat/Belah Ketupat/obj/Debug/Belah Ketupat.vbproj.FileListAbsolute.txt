@@ -1,0 +1,14 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Belah Ketupat\Belah Ketupat\bin\Debug\Belah Ketupat.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Belah Ketupat\Belah Ketupat\bin\Debug\Belah Ketupat.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Belah Ketupat\Belah Ketupat\bin\Debug\Belah Ketupat.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Belah Ketupat\Belah Ketupat\bin\Debug\Belah Ketupat.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Belah Ketupat\Belah Ketupat\obj\Debug\Belah_Ketupat.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Belah Ketupat\Belah Ketupat\obj\Debug\Belah_Ketupat.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Belah Ketupat\Belah Ketupat\obj\Debug\Belah Ketupat.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Belah Ketupat\Belah Ketupat\obj\Debug\Belah Ketupat.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Belah Ketupat\Belah Ketupat\obj\Debug\Belah Ketupat.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Belah Ketupat\Belah Ketupat\obj\Debug\Belah Ketupat.pdb
+C:\Users\Lenovo\Downloads\Pemrograman Visual\Pertemuan3\Latihan3\File Projects\Belah Ketupat\Belah Ketupat\bin\Debug\Belah Ketupat.exe.config
+C:\Users\Lenovo\Downloads\Pemrograman Visual\Pertemuan3\Latihan3\File Projects\Belah Ketupat\Belah Ketupat\obj\Debug\Belah Ketupat.exe
+C:\Users\Lenovo\Downloads\Pemrograman Visual\Pertemuan3\Latihan3\File Projects\Belah Ketupat\Belah Ketupat\obj\Debug\Belah Ketupat.xml
+C:\Users\Lenovo\Downloads\Pemrograman Visual\Pertemuan3\Latihan3\File Projects\Belah Ketupat\Belah Ketupat\obj\Debug\Belah Ketupat.pdb
