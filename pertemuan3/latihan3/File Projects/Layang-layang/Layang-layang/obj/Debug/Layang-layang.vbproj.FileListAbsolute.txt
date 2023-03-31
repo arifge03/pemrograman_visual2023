@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Layang-layang\Layang-layang\bin\Debug\Layang-layang.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Layang-layang\Layang-layang\bin\Debug\Layang-layang.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Layang-layang\Layang-layang\bin\Debug\Layang-layang.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Layang-layang\Layang-layang\bin\Debug\Layang-layang.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Layang-layang\Layang-layang\obj\Debug\Layang_layang.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Layang-layang\Layang-layang\obj\Debug\Layang_layang.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Layang-layang\Layang-layang\obj\Debug\Layang-layang.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Layang-layang\Layang-layang\obj\Debug\Layang-layang.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Layang-layang\Layang-layang\obj\Debug\Layang-layang.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Layang-layang\Layang-layang\obj\Debug\Layang-layang.pdb
