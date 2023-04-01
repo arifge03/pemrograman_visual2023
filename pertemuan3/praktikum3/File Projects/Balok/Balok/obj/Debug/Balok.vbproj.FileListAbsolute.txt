@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Balok\Balok\bin\Debug\Balok.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Balok\Balok\bin\Debug\Balok.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Balok\Balok\bin\Debug\Balok.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Balok\Balok\bin\Debug\Balok.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Balok\Balok\obj\Debug\Balok.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Balok\Balok\obj\Debug\Balok.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Balok\Balok\obj\Debug\Balok.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Balok\Balok\obj\Debug\Balok.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Balok\Balok\obj\Debug\Balok.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Balok\Balok\obj\Debug\Balok.pdb
