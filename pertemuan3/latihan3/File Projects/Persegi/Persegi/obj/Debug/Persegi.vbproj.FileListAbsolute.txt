@@ -1,0 +1,11 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Persegi\Persegi\bin\Debug\Persegi.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Persegi\Persegi\bin\Debug\Persegi.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Persegi\Persegi\bin\Debug\Persegi.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Persegi\Persegi\bin\Debug\Persegi.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Persegi\Persegi\obj\Debug\Persegi.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Persegi\Persegi\obj\Debug\Persegi.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Persegi\Persegi\obj\Debug\Persegi.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Persegi\Persegi\obj\Debug\Persegi.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Persegi\Persegi\obj\Debug\Persegi.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Persegi\Persegi\obj\Debug\Persegi.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Persegi\Persegi\obj\Debug\Persegi.pdb
