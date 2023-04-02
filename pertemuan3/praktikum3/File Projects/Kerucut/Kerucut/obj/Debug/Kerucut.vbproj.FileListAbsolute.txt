@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Kerucut\Kerucut\bin\Debug\Kerucut.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Kerucut\Kerucut\bin\Debug\Kerucut.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Kerucut\Kerucut\bin\Debug\Kerucut.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Kerucut\Kerucut\bin\Debug\Kerucut.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Kerucut\Kerucut\obj\Debug\Kerucut.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Kerucut\Kerucut\obj\Debug\Kerucut.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Kerucut\Kerucut\obj\Debug\Kerucut.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Kerucut\Kerucut\obj\Debug\Kerucut.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Kerucut\Kerucut\obj\Debug\Kerucut.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Kerucut\Kerucut\obj\Debug\Kerucut.pdb
