@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Bola\Bola\bin\Debug\Bola.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Bola\Bola\bin\Debug\Bola.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Bola\Bola\bin\Debug\Bola.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Bola\Bola\bin\Debug\Bola.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Bola\Bola\obj\Debug\Bola.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Bola\Bola\obj\Debug\Bola.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Bola\Bola\obj\Debug\Bola.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Bola\Bola\obj\Debug\Bola.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Bola\Bola\obj\Debug\Bola.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Bola\Bola\obj\Debug\Bola.pdb
