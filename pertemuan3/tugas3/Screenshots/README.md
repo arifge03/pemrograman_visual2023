@@ -2,4 +2,4 @@
 Screenshots
 ==
 
-Pada folder ini berisi file hasil screenshots hasil run program
+Pada folder ini berisi file screenshots hasil run program
