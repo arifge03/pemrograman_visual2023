@@ -1,0 +1,11 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\bin\Debug\Celcius.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\bin\Debug\Celcius.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\bin\Debug\Celcius.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\bin\Debug\Celcius.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\obj\Debug\Celcius.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\obj\Debug\Celcius.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\obj\Debug\Celcius.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\obj\Debug\Celcius.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\obj\Debug\Celcius.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\obj\Debug\Celcius.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\obj\Debug\Celcius.pdb
