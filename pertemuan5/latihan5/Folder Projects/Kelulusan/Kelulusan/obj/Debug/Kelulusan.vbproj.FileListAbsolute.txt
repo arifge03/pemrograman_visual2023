@@ -1,0 +1,13 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\bin\Debug\Kelulusan.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\bin\Debug\Kelulusan.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\bin\Debug\Kelulusan.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\bin\Debug\Kelulusan.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\obj\Debug\Kelulusan.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\obj\Debug\Kelulusan.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\obj\Debug\Kelulusan.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\obj\Debug\Kelulusan.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\obj\Debug\Kelulusan.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\obj\Debug\Kelulusan.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelulusan\Kelulusan\obj\Debug\Kelulusan.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Kelulusan\Kelulusan\obj\Debug\Kelulusan.Form2.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Kelulusan\Kelulusan\obj\Debug\Kelulusan.Form3.resources
