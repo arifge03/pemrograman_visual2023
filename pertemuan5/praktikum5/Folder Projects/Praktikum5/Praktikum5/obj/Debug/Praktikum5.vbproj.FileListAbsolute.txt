@@ -1,0 +1,14 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\bin\Debug\Praktikum5.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\bin\Debug\Praktikum5.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\bin\Debug\Praktikum5.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\bin\Debug\Praktikum5.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\obj\Debug\Praktikum5.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\obj\Debug\Praktikum5.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\obj\Debug\Praktikum5.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\obj\Debug\Praktikum5.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\obj\Debug\Praktikum5.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\obj\Debug\Praktikum5.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\obj\Debug\Praktikum5.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\obj\Debug\Praktikum5.Form2.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\obj\Debug\Praktikum5.Form3.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\obj\Debug\Praktikum5.Form4.resources
