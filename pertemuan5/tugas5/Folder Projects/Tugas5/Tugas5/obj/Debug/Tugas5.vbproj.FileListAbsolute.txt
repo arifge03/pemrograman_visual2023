@@ -1,0 +1,11 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Tugas5\Tugas5\bin\Debug\Tugas5.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Tugas5\Tugas5\obj\Debug\Tugas5.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Tugas5\Tugas5\obj\Debug\Tugas5.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Tugas5\Tugas5\obj\Debug\Tugas5.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Tugas5\Tugas5\obj\Debug\Tugas5.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Tugas5\Tugas5\bin\Debug\Tugas5.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Tugas5\Tugas5\bin\Debug\Tugas5.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Tugas5\Tugas5\bin\Debug\Tugas5.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Tugas5\Tugas5\obj\Debug\Tugas5.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Tugas5\Tugas5\obj\Debug\Tugas5.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Tugas5\Tugas5\obj\Debug\Tugas5.pdb
