@@ -1,7 +1,7 @@
 
 Pertemuan 6
 ==
-Pada folder Pertemuan5 pada berisi folder:
+Pada folder Pertemuan6 pada berisi folder:
 - Tugas6
 
 folder di atas memiliki sub foldernya yaitu:
