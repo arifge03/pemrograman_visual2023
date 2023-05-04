@@ -6,5 +6,5 @@ Pada folder Pertemuan7 pada berisi folder:
 - Latihan2
 
 folder di atas memiliki sub foldernya yaitu:
-- Folder Project
+- File Project
 - Screenshots
