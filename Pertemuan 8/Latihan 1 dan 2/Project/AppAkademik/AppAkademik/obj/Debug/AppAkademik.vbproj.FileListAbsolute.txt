@@ -1,0 +1,12 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\AppAkademik\AppAkademik\bin\Debug\AppAkademik.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\AppAkademik\AppAkademik\bin\Debug\AppAkademik.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\AppAkademik\AppAkademik\bin\Debug\AppAkademik.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\AppAkademik\AppAkademik\bin\Debug\AppAkademik.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\AppAkademik\AppAkademik\bin\Debug\MySql.Data.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\AppAkademik\AppAkademik\obj\Debug\AppAkademik.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\AppAkademik\AppAkademik\obj\Debug\AppAkademik.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\AppAkademik\AppAkademik\obj\Debug\AppAkademik.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\AppAkademik\AppAkademik\obj\Debug\AppAkademik.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\AppAkademik\AppAkademik\obj\Debug\AppAkademik.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\AppAkademik\AppAkademik\obj\Debug\AppAkademik.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\AppAkademik\AppAkademik\obj\Debug\AppAkademik.pdb
